@@ -20,6 +20,9 @@ After installing the dependencies, lets install the bot:
  screen ./Co*
  ---------
 ```
+```bash
+writing soon
+```
 Developer:
 [Amir](https://github.com/0PokeralfA0)
 
