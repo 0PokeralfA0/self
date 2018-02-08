@@ -105,8 +105,8 @@ cat << EOF
  
 EOF
 echo  "                           Company Launcher          "
-echo "                            By Amir Bagheri           "
-echo "                         >>>>>>>>>>>>>> Self Bot <<<<<<<<<<<<<<<           "
+echo "                            By Amir            "
+echo "                         >>>>>>>>>>>>>> Self <<<<<<<<<<<<<<<           "
 echo ""
 cat << EOF
  $bld$f1▄ ▀▄   ▄▀ ▄   $f2 ▄▄▄████▄▄▄    $f3  ▄██▄     $f4▄ ▀▄   ▄▀ ▄   $f5 ▄▄▄████▄▄▄    $f6  ▄██▄  $rst
@@ -140,7 +140,7 @@ done
 mkdir $HOME/.telegram-bot; cat <<EOF > $HOME/.telegram-bot/config
 default_profile = "main";
 main = {
-lua_script = "$HOME/Self-Bot/bot/bot.lua";
+lua_script = "$HOME/self/bot/bot.lua";
 };
 EOF
 printf "\nDone\n"
@@ -155,7 +155,7 @@ CerNer(){
 mkdir $HOME/.telegram-bot; cat <<EOF > $HOME/.telegram-bot/config
 default_profile = "main";
 main = {
-lua_script = "$HOME/Self-Bot/bot/bot.lua";
+lua_script = "$HOME/self/bot/bot.lua";
 };
 EOF
 printf "\nDone\n"
@@ -167,9 +167,9 @@ loginApi() {
 ./tg -p main --login --bot=${1}
 }
 function gitpull() {
-git checkout C  bot/ libs/
+git checkout poker  bot/ libs/
 git pull
-echo chmod +x C | /bin/bash
+echo chmod +x poker | /bin/bash
 version=$(echo "./C tgcli_version" | /bin/bash)
 updateTD $version
 }
@@ -186,7 +186,7 @@ printf "\n"
 }
 warning() {
 TXT=(
-"دستور وارد شده صحیح نیست !  لطفا از \n./C help استفاده کنید!"
+"دستور وارد شده صحیح نیست !  لطفا از \n./poker help استفاده کنید!"
 )
 printf "${TXT}"
 printf "\n"
@@ -239,6 +239,7 @@ echo "login-Cli - لوگین شدن به عنوان ربات cli "
 echo "login-Api - لوگین شدن به عنوان ربات Api "
 echo "update - اپدیت سورس • "
 echo "help - راهنما • "
+echo "@poker_alfa - ایدی سازنده سورس • "
 exit ;;
 esac
 warning
