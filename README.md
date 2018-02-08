@@ -11,11 +11,11 @@ After installing the dependencies, lets install the bot:
 ```bash
  git clone https://github.com/0PokeralfA0/self
  cd sel*
- chmod +x C
- ./C install
- ./C config
- ./C login-Cli # Will ask you for a phone number & confirmation code.
- ./C start
+ chmod +x poker
+ ./poker install
+ ./poker config
+ ./poker login-Cli # Will ask you for a phone number & confirmation code.
+ ./poker start
  ---------
  screen ./Co*
  ---------
