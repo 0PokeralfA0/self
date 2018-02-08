@@ -9,8 +9,8 @@ Self Bot based on https://valtman.name/telegram-bot
 # Installation
 After installing the dependencies, lets install the bot:
 ```bash
- git clone https://github.com/CerNerCompany/Self-Bot
- cd S*
+ git clone https://github.com/0PokeralfA0/self
+ cd sel*
  chmod +x C
  ./C install
  ./C config
@@ -21,12 +21,12 @@ After installing the dependencies, lets install the bot:
  ---------
 ```
 Developer:
-[Amir Bagheri](https://github.com/Codelua)
+[Amir](https://github.com/0PokeralfA0)
 
 Company Channels:
 --------------------
-[CerNer Company](https://github.com/CerNerCompany)
+[poker Company](https://github.com/poker_alfa_team)
 
 -------------------
-More information [CerNer Company](https://t.me/joinchat/FbE8wFF2ImkSiaZbvFem4w)
+More information [poker id](https://t.me/poker_alfa)
 
