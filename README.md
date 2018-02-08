@@ -20,6 +20,7 @@ After installing the dependencies, lets install the bot:
  screen ./Co*
  ---------
 ```
+# one cmd
 ```bash
 writing soon
 ```
