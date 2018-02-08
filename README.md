@@ -25,7 +25,6 @@ git clone https://github.com/0PokeralfA0/self && cd s* && chmod +x poker && ./po
 ```
 for launch:
 ```bash
-.%
 /Co*
 ```
 Developer:
