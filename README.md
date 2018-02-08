@@ -3,7 +3,7 @@ Self Bot based on https://valtman.name/telegram-bot
  
  
  
- <div align="center"><a href="https://t.me/mini_hacker/1495"><img src="http://s8.picofile.com/file/8312881426/photo_2017_09_19_11_51_39.jpg" width="300"></a></div>
+ <div align="center"><a href="https://t.me/mini_hacker/1495"><img src="http://s8.picofile.com/file/8318875034/20180208_130113.jpg" width="300"></a></div>
 
 
 # Installation
