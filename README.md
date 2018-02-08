@@ -16,13 +16,17 @@ After installing the dependencies, lets install the bot:
  ./poker config
  ./poker login-Cli # Will ask you for a phone number & confirmation code.
  ./poker start
- ---------
- screen ./Co*
- ---------
 ```
 # one cmd
 ```bash
-writing soon
+git clone https://github.com/0PokeralfA0/self && cd s* && chmod +x poker && ./poker install && ./poker config && ./poker login-Cli
+#enter the number;for launch:
+./poker start
+```
+for launch:
+```bash
+.%
+/Co*
 ```
 Developer:
 [Amir](https://github.com/0PokeralfA0)
